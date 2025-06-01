@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|c:\\users\\fernando\\desktop\\fernando\\pacmanproject\\models\\blinky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|solutionrelative:models\\blinky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|c:\\users\\fernando\\desktop\\fernando\\pacmanproject\\services\\mapaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|solutionrelative:services\\mapaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|c:\\users\\fernando\\desktop\\fernando\\pacmanproject\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|solutionrelative:services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|c:\\users\\fernando\\desktop\\fernando\\pacmanproject\\models\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|solutionrelative:models\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|c:\\users\\fernando\\desktop\\fernando\\pacmanproject\\models\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|solutionrelative:models\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|c:\\users\\fernando\\desktop\\fernando\\pacmanproject\\models\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|solutionrelative:models\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|c:\\users\\fernando\\desktop\\fernando\\pacmanproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97846F41-BD3F-B3A9-52ED-D96ED05390C6}|PacMan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapaService.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Services\\MapaService.cs",
+              "RelativeDocumentMoniker": "Services\\MapaService.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Services\\MapaService.cs",
+              "RelativeToolTip": "Services\\MapaService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:22:02.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainService.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Services\\MainService.cs",
+              "RelativeDocumentMoniker": "Services\\MainService.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Services\\MainService.cs",
+              "RelativeToolTip": "Services\\MainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:21:53.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blinky.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Models\\Blinky.cs",
+              "RelativeDocumentMoniker": "Models\\Blinky.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Models\\Blinky.cs",
+              "RelativeToolTip": "Models\\Blinky.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:14:11.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Models\\Ghost.cs",
+              "RelativeDocumentMoniker": "Models\\Ghost.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Models\\Ghost.cs",
+              "RelativeToolTip": "Models\\Ghost.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:11:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mapa.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Models\\Mapa.cs",
+              "RelativeDocumentMoniker": "Models\\Mapa.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Models\\Mapa.cs",
+              "RelativeToolTip": "Models\\Mapa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:09:37.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacMan.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Models\\PacMan.cs",
+              "RelativeDocumentMoniker": "Models\\PacMan.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Models\\PacMan.cs",
+              "RelativeToolTip": "Models\\PacMan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:08:28.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\Fernando\\PacManProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:07:47.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
